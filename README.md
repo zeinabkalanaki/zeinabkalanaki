@@ -1,6 +1,6 @@
 <h3 dir="auto">
   Hi
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="max-width: 100%; display: inline-block;    width: 30px;" data-target="animated-image.originalImage">
   I'm Zeinab Kalanaki.
 </h3>
 
