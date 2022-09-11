@@ -9,6 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeinabkalanaki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://stackoverflow.com/users/19060518/zeinab-kalanaki"><img src="https://stackoverflow.com/users/flair/19060518.png" width="208" height="58" alt="profile for Zeinab Kalanaki at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Zeinab Kalanaki at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeinabkalanaki)](https://github.com/anuraghazra/github-readme-stats)
